@@ -6,6 +6,8 @@ The Lead Management Application is an API-driven system designed to streamline t
 
 ## System Architecture
 
+![image](./system_architecture.png)
+
 ### Components
 
 - **FastAPI Backend**: Manages API requests and business logic, providing fast, asynchronous request handling.

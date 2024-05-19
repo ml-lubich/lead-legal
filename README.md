@@ -27,3 +27,4 @@ To get a local copy up and running follow these simple steps:
 1. Clone the repo
    ```sh
    git clone https://github.com/ml-lubich/lead-legal.git
+2. Run the app with `uvicorn app.main:app --reload`

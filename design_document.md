@@ -31,9 +31,6 @@ The Lead Management Application is an API-driven system designed to streamline t
 
 [Attorney] -> [FastAPI App] -> [SQLite Database]
 
-csharp
-Copy code
-
 ## Detailed API Design
 
 ### Public Endpoints

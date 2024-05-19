@@ -9,8 +9,7 @@ LeadLegal is a powerful and intuitive lead management system designed specifical
 - **Email Notifications**: Automatically send tailored emails to both prospects and attorneys when a new lead is registered or updated.
 - **Secure Access**: A secure internal UI ensures that only authorized personnel can view and manage lead information.
 - **AWS S3 Integration**: Resumes and CVs uploaded by prospects are securely stored in AWS S3, ensuring data integrity and accessibility.
-- **Mobile Responsive Design**: Built using Bootstrap 5, the interface is fully responsive and accessible on all devices, ensuring a seamless user experience.
-
+- 
 ## Technologies Used
 - **FastAPI**: For building high-performance, scalable APIs.
 - **SQLite**: For local database management.

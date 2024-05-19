@@ -14,7 +14,6 @@ LeadLegal is a powerful and intuitive lead management system designed specifical
 - **FastAPI**: For building high-performance, scalable APIs.
 - **SQLite**: For local database management.
 - **AWS S3**: For secure file storage.
-- **Bootstrap 5**: For responsive frontend design.
 - **Python**: Backend programming language.
 
 ## Getting Started

@@ -1,0 +1,8 @@
+fastapi==0.68.0
+uvicorn[standard]==0.15.0
+sqlalchemy==1.4.22
+psycopg2-binary==2.9.1  # If using PostgreSQL, or use the appropriate database driver
+python-multipart==0.0.5
+boto3==1.17.84
+pydantic==1.8.2
+email-validator==1.1.3
